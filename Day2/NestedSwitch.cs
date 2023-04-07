@@ -8,7 +8,7 @@ namespace Day2
 {
     class NestedSwitch
     {
-        public static void Main(string[] args)
+        public static void Main7(string[] args)
         {
            
             Console.WriteLine("1 for non-veg pizza 2 for veg pizza");

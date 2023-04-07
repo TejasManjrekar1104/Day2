@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array.cs" />
     <Compile Include="IfElse.cs" />
     <Compile Include="IfElseIf.cs" />
     <Compile Include="NestedIf.cs" />
